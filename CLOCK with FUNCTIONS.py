@@ -1,6 +1,6 @@
 import sys
 
-
+#testing the comments out - DELETE LATER
 from Tkinter import *
 import time
 
